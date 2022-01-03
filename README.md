@@ -9,9 +9,6 @@ Clicking on a cell will toggle it from dead to alive and viceversa.
 
 ## Program in Action
 
-https://user-images.githubusercontent.com/47519297/147884425-b52629a8-7b30-4bc3-a6b2-fdb4d67375f1.mp4
+https://user-images.githubusercontent.com/47519297/147928275-d68cf97f-632b-4b66-8008-183018093ac0.mp4
 
-
-
-https://user-images.githubusercontent.com/47519297/147884427-db85a065-da25-44d2-a57f-068b115ac51a.mp4
-
+https://user-images.githubusercontent.com/47519297/147928277-8a1ab6b0-fd96-42e5-82e2-96dd268ed35d.mp4
